@@ -11,7 +11,7 @@
   .section {
     width: 100%;
     min-height: 100vh;
-    background-image: url("https://c4.wallpaperflare.com/wallpaper/859/535/584/black-dog-pet-portrait-wallpaper-preview.jpg");
+    background-image: url("images/download.jfif");
     background-size:cover;
   }
   
@@ -23,7 +23,7 @@
   }
   .content-section {
     float:left;
-    width: 55%;
+    width: 35%;
     text-align: center;
     margin-left: 25%;
   }
@@ -40,15 +40,18 @@
     font-size: 28px;
     text-align: center;
   }
-  .content-section .content h2,p {
+  .content-section .content h2 {
     margin-top: 20px;
-    color: rgb(163, 163, 168);
+    color: rgb(8, 8, 8);
     font-family: "Nunito", sans-serif;
     text-align:center;
     font-weight: 600;
      }
+    .content-section .content p{
+      color: rgb(182, 161, 46);
+    }
   .content-section .content h3{
-    color: rgb(111, 168, 182);
+    color: rgb(8, 8, 8);
   }
   .content-section .content .button {
     margin-top: 30px;
